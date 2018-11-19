@@ -19,7 +19,7 @@ Selected improvements and bug fixes
   build the Cython spike queue for Python 3.7 (:issue:`1026`), thanks to Fleur
   Zeldenrust and Ankur Sinha for reporting these issues.
 * Fix error messages for ``SyntaxError`` exceptions in jupyter notebooks
-  (:issue:`#964`).
+  (:issue:`964`).
 
 Dependency and packaging changes
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
