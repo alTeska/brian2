@@ -116,6 +116,7 @@ def network_operation(*args, **kwds):
     --------
     
     Print something each time step:
+    
     >>> from brian2 import *
     >>> @network_operation
     ... def f():
